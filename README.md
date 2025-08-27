@@ -9,13 +9,14 @@ Built on FastAPI, SqlAlchemy, and SQLite
 `GET /tarots/{tarot_id}/keywords` - Get specific tarot card's keywords \
 `GET /tarots/{tarot_id}/meanings` - Get all of specific tarot card's meanings \
 `GET /tarots/{tarot_id}/meanings/light` - Get specific tarot card's light meanings \
-`GET /tarots/{tarot_id}/meanings/shadow` - Get specific tarot card's shadow meanings \
+`GET /tarots/{tarot_id}/meanings/shadow` - Get specific tarot card's shadow meanings
 
 ## Arcana
 `GET /arcanas` - List all arcanas and related tarots \
-`GET /arcanas/{arcana_id}` - Get specific arcana and related tarots \
+`GET /arcanas/{arcana_id}` - Get specific arcana and related tarots
 
 ## Suit
 `GET /suits` - List all suits and related tarots \
-`GET /suits/{suits_id}` - Get specific suit and related tarots \
+`GET /suits/{suits_id}` - Get specific suit and related tarots
+
 
