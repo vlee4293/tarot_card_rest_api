@@ -1,0 +1,66 @@
+{
+  "light": [
+    {
+      "id": 1,
+      "description": "Freeing yourself from limitation"
+    },
+    {
+      "id": 2,
+      "description": "Expressing joy and youthful vigor"
+    },
+    {
+      "id": 3,
+      "description": "Being open-minded"
+    },
+    {
+      "id": 4,
+      "description": "Taking a leap of faith"
+    },
+    {
+      "id": 5,
+      "description": "Attuning yourself to your instincts"
+    },
+    {
+      "id": 6,
+      "description": "Being eager or curious"
+    },
+    {
+      "id": 7,
+      "description": "Exploring your potential"
+    },
+    {
+      "id": 8,
+      "description": "Embracing innovation and change"
+    }
+  ],
+  "shadow": [
+    {
+      "id": 1,
+      "description": "Being gullible and naive"
+    },
+    {
+      "id": 2,
+      "description": "Taking unnecessary risks"
+    },
+    {
+      "id": 3,
+      "description": "Failing to be serious when required"
+    },
+    {
+      "id": 4,
+      "description": "Being silly or distracted"
+    },
+    {
+      "id": 5,
+      "description": "Lacking experience"
+    },
+    {
+      "id": 6,
+      "description": "Failing to honor well-established traditions and limits"
+    },
+    {
+      "id": 7,
+      "description": "Behaving inappropriately"
+    }
+  ]
+}

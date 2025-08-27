@@ -1,0 +1,94 @@
+{
+  "id": 1,
+  "name": "Major Arcana",
+  "tarots": [
+    {
+      "id": 1,
+      "name": "The Fool"
+    },
+    {
+      "id": 2,
+      "name": "The Magician"
+    },
+    {
+      "id": 3,
+      "name": "The High Priestess"
+    },
+    {
+      "id": 4,
+      "name": "The Empress"
+    },
+    {
+      "id": 5,
+      "name": "The Emperor"
+    },
+    {
+      "id": 6,
+      "name": "The Hierophant"
+    },
+    {
+      "id": 7,
+      "name": "The Lovers"
+    },
+    {
+      "id": 8,
+      "name": "The Chariot"
+    },
+    {
+      "id": 9,
+      "name": "Strength"
+    },
+    {
+      "id": 10,
+      "name": "The Hermit"
+    },
+    {
+      "id": 11,
+      "name": "Wheel of Fortune"
+    },
+    {
+      "id": 12,
+      "name": "Justice"
+    },
+    {
+      "id": 13,
+      "name": "The Hanged Man"
+    },
+    {
+      "id": 14,
+      "name": "Death"
+    },
+    {
+      "id": 15,
+      "name": "Temperance"
+    },
+    {
+      "id": 16,
+      "name": "The Devil"
+    },
+    {
+      "id": 17,
+      "name": "The Tower"
+    },
+    {
+      "id": 18,
+      "name": "The Star"
+    },
+    {
+      "id": 19,
+      "name": "The Moon"
+    },
+    {
+      "id": 20,
+      "name": "The Sun"
+    },
+    {
+      "id": 21,
+      "name": "Judgement"
+    },
+    {
+      "id": 22,
+      "name": "The World"
+    }
+  ]
+}

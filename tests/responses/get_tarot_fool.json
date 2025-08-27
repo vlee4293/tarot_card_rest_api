@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "name": "The Fool",
+  "number_repr": 0,
+  "img_file": "m00.jpg",
+  "arcana": {
+    "id": 1,
+    "name": "Major Arcana"
+  },
+  "suit": {
+    "id": 1,
+    "name": "Trump"
+  },
+  "archetype": {
+    "id": 1,
+    "name": "The Divine Madman"
+  },
+  "hebrew_alphabet": {
+    "id": 1,
+    "description": "Aleph/Ox/1"
+  },
+  "numerology": {
+    "id": 1,
+    "description": "0 (off the scale; pure potential)"
+  },
+  "elemental": {
+    "id": 1,
+    "description": "Air"
+  },
+  "mythical_spiritual": {
+    "id": 1,
+    "description": "Adam before the fall. Christ as a wandering holy madman. Deity wrapped in human flesh. The Holy Spirit."
+  }
+}
