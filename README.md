@@ -1,6 +1,11 @@
 # Tarot Card REST API
 Built on FastAPI, SqlAlchemy, and SQLite
 
+# How to run
+```bash
+uvicorn tarot_cards_rest.main:api
+```
+
 # Endpoints
 ## Tarot
 `GET /tarots` - List all tarot cards \
@@ -18,5 +23,6 @@ Built on FastAPI, SqlAlchemy, and SQLite
 ## Suit
 `GET /suits` - List all suits and related tarots \
 `GET /suits/{suits_id}` - Get specific suit and related tarots
+
 
 
